@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dila-wa.me**
 
-- 📄 Know about my experiences [dila-wa.me](dila-wa.me)
+- 📄 Know about my experiences [dilawa.me](dilawa.me)
 
 - ⚡ Fun fact **I think I am happy at all the time**
 
