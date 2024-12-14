@@ -3,17 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/dila_wa_ofc" target="blank"><img src="https://img.shields.io/twitter/follow/dila_wa_ofc?logo=twitter&style=for-the-badge" alt="dila_wa_ofc" /></a> </p>
 
-- 🔭 I’m currently working on **Zoom Bot**
 
 - 🌱 I’m currently learning **C++ , C , Java**
 
-- 👨‍💻 All of my projects are available at [dila-wa.me/projects](dila-wa.me/projects)
-
-- 📝 I regularly write articles on [dila-wa.me/blog](dila-wa.me/blog)
-
 - 💬 Ask me about **Any thing**
 
-- 📫 How to reach me **dila-wa.me**
+- 📫 How to reach me **dila@thambapannidesigns.com**
 
 - 📄 Know about my experiences [dilawa.me](dilawa.me)
 
