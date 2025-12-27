@@ -19,35 +19,26 @@ A Computer Science Undegraduate at Informatics Institute of Technology Affiliate
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C942%20hrs-blue)
-
-
-**I'm a Night 🦉** 
+**I'm a Morning 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
-🌆 Daytime    14 commits     ██████████░░░░░░░░░░░░░░░   41.18% 
-🌃 Evening    15 commits     ███████████░░░░░░░░░░░░░░   44.12% 
-🌙 Night      4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+🌞 Morning    * commits      ███████████░░░░░░░░░░░░░░   41.14% 
+🌆 Daytime    * commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
+🌃 Evening    * commits     ██████░░░░░░░░░░░░░░░░░░░   29.54% 
+🌙 Night      * commits      █████░░░░░░░░░░░░░░░░░░░░   17.14%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    6 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Thursday     4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Friday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Saturday     9 commits      ██████░░░░░░░░░░░░░░░░░░░   26.47% 
-Sunday       10 commits     ███████░░░░░░░░░░░░░░░░░░   29.41%
+Monday       * commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Tuesday      * commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    * commits      ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Thursday     * commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Friday       * commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+Saturday     * commits      ██████░░░░░░░░░░░░░░░░░░░   26.47% 
+Sunday       * commits     ███████░░░░░░░░░░░░░░░░░░   29.41%
 
 ```
 
@@ -63,10 +54,11 @@ textmate                 19 mins             ██░░░░░░░░░�
 TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
 
 🔥 Editors: 
-PyCharm                  4 hrs 5 mins        █████████████████████████   100.0%
+PyCharm                  1 hrs 5 mins        █████████████░░░░░░░░░░░░   37.5%
+Visual Studio Code       3 hrs 0 mins        █████████████████████████   62.5%
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.0%
+Windows                      4 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -84,18 +76,3 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 26/12/2025
 <!--END_SECTION:waka-->
-
-<!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
