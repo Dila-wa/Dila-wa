@@ -6,8 +6,8 @@
 
 ### Building technology. Creating experiences. Turning ideas into reality.
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Dila-wa?style=for-the-badge&logo=github&color=181717)](https://github.com/Dila-wa)
+[![Profile Views](https://komarev.com/ghpvc/?username=Dila-wa&style=for-the-badge&color=0e75b6)](https://github.com/Dila-wa)
 
 </div>
 
@@ -76,9 +76,9 @@ Explore my repositories for more projects, experiments, and development work.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dila-wa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dila-wa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -86,7 +86,7 @@ Explore my repositories for more projects, experiments, and development work.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="80%" />
+<img src="https://streak-stats.demolab.com?user=Dila-wa&theme=tokyonight&hide_border=true" width="80%" />
 
 </div>
 
@@ -94,7 +94,7 @@ Explore my repositories for more projects, experiments, and development work.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dila-wa&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -104,7 +104,7 @@ Explore my repositories for more projects, experiments, and development work.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dila-wa&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 
 </div>
 
@@ -116,9 +116,9 @@ I'm always interested in connecting with developers, innovators, entrepreneurs, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/senuth-wanniarachchi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://senuthdilnada.me/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senuthwanni@gmail.com)
 
 </div>
 
