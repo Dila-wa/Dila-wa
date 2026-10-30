@@ -1,78 +1,135 @@
-# Hi, I'm Senuth Dilnada
+# 👋 Hey there, I'm Senuth Wanniarachchi!
 
-A Computer Science Undegraduate at Informatics Institute of Technology Affiliated with University of Westminster (UK).
+<div align="center">
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Software+Developer;AI+%26+Technology+Enthusiast;Project+Management+Enthusiast;Building+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=Dila-wa.Dila-wa)](https://visitor-badge.laobi.icu/badge?page_id=Dila-wa.Dila-wa)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:senuthdilnadarox@gmail.com)](mailto:senuthdilnadarox@gmail.com)
-[![](https://img.shields.io/github/stars/Dila-wa?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/Dila-wa?color=27da6b&logo=Handshake)](https://github.com/cxyfreedom?tab=followers)
+### Building technology. Creating experiences. Turning ideas into reality.
 
-## Tools
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)](https://github.com/YOUR_USERNAME)
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
+</div>
 
-## Technology Stack
+---
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+## 🚀 About Me
 
-## Stats
+I'm **Senuth Wanniarachchi**, a Computer Science undergraduate with a passion for technology, software engineering, digital innovation, and entrepreneurship.
 
+I enjoy transforming ideas into meaningful digital products, exploring emerging technologies, and building solutions that solve real-world problems.
 
-**I'm a Morning 🦉** 
+Beyond coding, I'm interested in project management, strategic innovation, leadership, and building communities.
 
-```text
-🌞 Morning    * commits      ███████████░░░░░░░░░░░░░░   41.14% 
-🌆 Daytime    * commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-🌃 Evening    * commits     ██████░░░░░░░░░░░░░░░░░░░   29.54% 
-🌙 Night      * commits      █████░░░░░░░░░░░░░░░░░░░░   17.14%
+- 🎓 Computer Science Undergraduate at IIT.
+- 💻 Interested in Software Engineering & Full-Stack Development.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🔐 Passionate about Cybersecurity and Cloud Technologies.
+- 🚀 Founder of **Mintly** and **Thambapanni Designs**.
+- 📊 Working at the intersection of technology and project management.
+- 🌱 Constantly learning, experimenting, and building.
 
-```
-📅 **I'm Most Productive on Sunday** 
+**My philosophy:** Learn continuously. Build fearlessly. Create impact.
 
-```text
-Monday       * commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Tuesday      * commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    * commits      ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Thursday     * commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Friday       * commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Saturday     * commits      ██████░░░░░░░░░░░░░░░░░░░   26.47% 
-Sunday       * commits     ███████░░░░░░░░░░░░░░░░░░   29.41%
+---
 
-```
+## 🛠️ Technologies & Tools
 
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,php" />
+</p>
 
-📊 **This Week I Spent My Time On** 
+### Frameworks & Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,bootstrap" />
+</p>
 
-```text
-💬 Programming Languages: 
-Python                   2 hrs 18 mins       ██████████████░░░░░░░░░░░   56.56% 
-YAML                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
-Nginx configuration file 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
-textmate                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
+### Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,aws,vercel" />
+</p>
 
-🔥 Editors: 
-PyCharm                  1 hrs 5 mins        █████████████░░░░░░░░░░░░   37.5%
-Visual Studio Code       3 hrs 0 mins        █████████████████████████   62.5%
+### Tools & Creative Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,photoshop,linux,vscode,postman" />
+</p>
 
-💻 Operating System: 
-Windows                      4 hrs 5 mins        █████████████████████████   100.0%
+---
 
-```
+## 💡 Featured Projects
 
-**I Mostly Code in Python** 
+Here are some of the projects and ideas I'm passionate about building.
 
-```text
-Python                   8 repos             ██████████████░░░░░░░░░░░   57.14% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+| Project | Description |
+|---|---|
+| **Syntrix LK** | AI-powered inventory management and food waste reduction platform. |
+| **Mintly** | Digital innovation company focused on AI, IT solutions, and digital marketing. |
+| **Ride Colombo** | Digital event management and cycling participation tracking platform. |
+| **Business Central** | Business management solution developed for operational efficiency. |
 
-```
+Explore my repositories for more projects, experiments, and development work.
 
+---
 
+## 📊 GitHub Analytics
 
- Last Updated on 26/12/2025
-<!--END_SECTION:waka-->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="80%" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+I'm always interested in connecting with developers, innovators, entrepreneurs, and people passionate about technology.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**"Code. Create. Innovate. Repeat."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=100&section=footer" width="100%" />
+
+</div>
